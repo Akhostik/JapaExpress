@@ -1,0 +1,52 @@
+*{
+    font-family: 'Poppins', sans-serif;   
+    box-shadow: none! important;
+ margin: 0;
+ padding: 0;
+}
+
+
+.space{
+    height: 2rem;
+}
+
+.nav-wrapper{
+    background-color: white;
+    
+}
+
+
+
+.oranged{
+    background: orange;
+    height: 5px;
+    width: 60px;
+}
+
+.iso a{
+    border: 1px black solid;
+    border-radius: 30px;
+}
+
+
+.page-footer a:hover{
+ background: black;
+ border-spacing: 5px;
+ padding: 5px;
+ border: 1px solid white;
+ border-radius: 20px;
+}
+
+.brand-logo{
+    font-weight: 700;
+}
+
+.page-footer{
+    padding-top: 5rem;
+}
+
+.custcard{
+    padding: 3rem;
+    border: 2px solid black;
+    border-radius: 5px;
+}
